@@ -4,8 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-lima-bb8a002aa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@felipe1905lima@gmail.com)
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeLima78&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLima78&hide_progress=true)
 
 ## Tecnologias que eu tenho proficiência
 
